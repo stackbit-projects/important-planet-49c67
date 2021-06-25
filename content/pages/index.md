@@ -5,7 +5,7 @@ sections:
     title: We are carbons
     subtitle: We spred knowlage and our thinking through this platform
     actions:
-      - label: Contact Me
+      - label: Contact us
         url: /contact
         style: primary
     image: images/hero.png
