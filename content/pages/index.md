@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: We are carbons
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: We spred knowlage and our thinking through this platform
     actions:
       - label: Contact Me
         url: /contact
